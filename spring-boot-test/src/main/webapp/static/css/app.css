@@ -1,0 +1,7 @@
+.pagination a {
+    cursor: pointer !important;
+}
+
+div.margin-report-pagination{
+	display: block;
+}
